@@ -1,6 +1,7 @@
 /*
 	Mikhail Sergeevich
 	18.01.2016
+	version 0.1
 */
 
 (function($) {
