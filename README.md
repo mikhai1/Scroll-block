@@ -6,7 +6,7 @@ jQuery plugin to fixed block and scroll it
 $(selector).scroll_block();
 ```
 
-# Reccomend
+# Recommend
 ```js
 $(window).on('beforeunload', function() {
     $(window).scrollTop(0); //for scroll plugin
